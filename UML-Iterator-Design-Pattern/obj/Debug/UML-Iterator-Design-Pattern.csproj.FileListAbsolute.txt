@@ -1,0 +1,8 @@
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\bin\Debug\UML-Iterator-Design-Pattern.exe.config
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\bin\Debug\UML-Iterator-Design-Pattern.exe
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\bin\Debug\UML-Iterator-Design-Pattern.pdb
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\obj\Debug\UML-Iterator-Design-Pattern.csproj.AssemblyReference.cache
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\obj\Debug\UML-Iterator-Design-Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\obj\Debug\UML-Iterator-Design-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\obj\Debug\UML-Iterator-Design-Pattern.exe
+C:\Users\Farid\source\repos\UML-Iterator-Design-Pattern\UML-Iterator-Design-Pattern\obj\Debug\UML-Iterator-Design-Pattern.pdb
